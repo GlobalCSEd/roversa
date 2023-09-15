@@ -93,7 +93,7 @@ with open('driveTime.py', 'r') as dtime:
 with open('turnTime.py', 'r') as ttime:
     	turnTime = int(ttime.read())
 with open('lang.py', 'r') as lang:
-    	language = int(lang.read())
+	language = int(lang.read())
 
 #array to store directions when entered
 recorded_button = []
