@@ -5,6 +5,7 @@
 - Chassis: Aligned LEGO/dowel holes to avoid wheel collision
 - Chassis: Adjusted standoffs for PCB mounting - created rounded flex point
 - Chassis: Created slot for solder points to rest on shelf for lipo charger module
+- Chassis: Adjusted hole diameter for on/off switch to fit latching pushbutton for smaller footprint
 
 **Revision 2.1**
 
